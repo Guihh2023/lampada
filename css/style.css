@@ -1,0 +1,25 @@
+#buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+main, img {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+button {
+    cursor: pointer;
+  
+}
